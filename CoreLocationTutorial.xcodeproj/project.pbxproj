@@ -21,6 +21,7 @@
 		15FCE76B2D5852590031C138 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15FCE76E2D5852590031C138 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		15FCE7752D5853580031C138 /* LocationDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDataManager.swift; sourceTree = "<group>"; };
+		15FCE7772D5868BC0031C138 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		15FCE75B2D5852560031C138 = {
 			isa = PBXGroup;
 			children = (
+				15FCE7772D5868BC0031C138 /* README.md */,
 				15FCE7662D5852560031C138 /* CoreLocationTutorial */,
 				15FCE7652D5852560031C138 /* Products */,
 			);
